@@ -17,7 +17,7 @@ class App extends React.Component {
               alt="headshot"
             ></img>
           </div>
-          <h1 className="mx-auto font-sans text-xl text-gray-700">
+          <h1 className="mx-auto font-sans text-xl text-gray-700 font-light">
             Tom Balough
           </h1>
           <hr></hr>
